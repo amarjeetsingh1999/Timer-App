@@ -1,6 +1,15 @@
 # Timer-App
 
-## Instructions:
+## How to Run the App:
+* Download this repository as .zip or clone this repository:
+```https://github.com/amarjeetsingh1999/Timer-App.git```
+* In this folder install all the dependencies with
+```npm install```
+* Then launch the app, start the development server with
+```npm start```
+* A new browser window should automatically open displaying the app. If it doesn't, navigate to http://localhost:3000/ in your browser.
+
+## Using the App:
 * Set the timer using the input boxes
 * Click on "Start" button to start the countdown
 * While the timer is running, there are two buttons available
